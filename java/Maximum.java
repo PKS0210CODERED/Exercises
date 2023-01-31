@@ -19,3 +19,5 @@ public class Maximum{
         System.out.println("Smallest element present in given array: " + max);  
     }  
 }  
+
+// from 2019CSC041 change
